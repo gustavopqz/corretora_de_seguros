@@ -7,7 +7,7 @@
 
 ### Delevoped by:
     - Gustavo Pasqua
-    - Sávio Magalhães
+    - Sávio Guimarães
     - Erick Damasceno
     - Gabriel Alves
  
@@ -18,6 +18,6 @@
 
 ## Desenvolvidor por:
     - Gustavo Pasqua
-    - Sávio Magalhães
+    - Sávio Guimarães
     - Erick Damasceno
     - Gabriel Alves
